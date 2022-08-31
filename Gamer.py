@@ -6,3 +6,9 @@ class Gamer():
         self.name = name
         self.score = score
 
+
+
+
+
+
+
